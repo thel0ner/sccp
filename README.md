@@ -14,16 +14,22 @@ for usage :
 Yarn users : 
 
 `git clone https://github.com/thel0ner/sccp.git
+
 cd sccp
+
 yarn
+
 node run.js` 
 
 NPM users :
 
 
 `git clone https://github.com/thel0ner/sccp.git
+
 cd sccp
+
 npm i
+
 node run.js` 
 
 Donations are always welcome :
